@@ -7,8 +7,7 @@
 
 <p align="center">
   Department of Geosciences · University of Évora · MED &amp; CHANGE<br>
-  <a href="https://ue-hydro.uevora.pt">Website</a> ·
-  <a href="https://openwq.readthedocs.io">OpenWQ docs</a>
+  <a href="https://ue-hydro.uevora.pt">Website</a>
 </p>
 
 ---
